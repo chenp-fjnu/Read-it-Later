@@ -3,44 +3,44 @@ I will put anything interesting here and mark it as read after dive into it. May
 
 
 #About Me
-Name: Chen, Ping 
+<strong>Name:</strong> Chen, Ping 
 
-Sex: Male
+<strong>Sex:</strong> Male
 
-Mobile Phone: 15021849012 
+<strong>Mobile Phone:</strong> 15021849012 
 
-Residencies: Shanghai, China
+<strong>Residencies:</strong> Shanghai, China
 
-Email: pc45025@gmail.com
+<strong>Email:</strong> pc45025@gmail.com
 
 #Work Experience
 
-Time Period: 2010.01 - Present 
+<strong>Time Period:</strong> 2010.01 - Present 
 
-Company: Citigroup Services and Technology(China) Limited.
+<strong>Company:</strong> Citigroup Services and Technology(China) Limited.
 
-Latest Job Title: Manager
+<strong>Latest Job Title:</strong> Manager
 
-Time Period: 2007.05 - 2010.01 
+<strong>Time Period:</strong> 2007.05 - 2010.01 
 
-Company: Gillion New Technologies Co. Ltd.
+<strong>Company:</strong> Gillion New Technologies Co. Ltd.
 
-Latest Job Title: Senior Software Engineer
+<strong>Latest Job Title:</strong> Senior Software Engineer
 
 #Education Background
 
-Time Period: 2012.09 - 2015.07
+<strong>Time Period:</strong> 2012.09 - 2015.07
 
-School: Fudan University
+<strong>School:</strong> Fudan University
 
-Major: Software Engineering
+<strong>Major:</strong> Software Engineering
 
-Degree: On-job postgraduates
+<strong>Degree:</strong> On-job postgraduates
 
-Time Period: 2003.09 - 2007.07
+<strong>Time Period:</strong> 2003.09 - 2007.07
 
-School: Fujian Normal University
+<strong>School:</strong> Fujian Normal University
 
-Major: Computer Science and Technology 
+<strong>Major:</strong> Computer Science and Technology 
 
-Degree: Bachelor
+<strong>Degree:</strong> Bachelor
