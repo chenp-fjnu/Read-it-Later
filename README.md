@@ -2,7 +2,8 @@
 I will put anything interesting here and mark it as read after dive into it. May have some notes too.
 
 
-H1 About Me
+About Me
+----------------------------------- 
 <strong>Name:</strong> Chen, Ping 
 
 <strong>Sex:</strong> Male
@@ -13,7 +14,7 @@ H1 About Me
 
 <strong>Email:</strong> pc45025@gmail.com
 
-H2 Work Experience
+### Work Experience
 
 <strong>Time Period:</strong> 2010.01 - Present 
 
@@ -27,7 +28,7 @@ H2 Work Experience
 
 <strong>Latest Job Title:</strong> Senior Software Engineer
 
-H2 Education Background
+### Education Background
 
 <strong>Time Period:</strong> 2012.09 - 2015.07
 
