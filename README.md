@@ -2,7 +2,7 @@
 I will put anything interesting here and mark it as read after dive into it. May have some notes too.
 
 
-#About Me
+H1 About Me
 <strong>Name:</strong> Chen, Ping 
 
 <strong>Sex:</strong> Male
@@ -13,7 +13,7 @@ I will put anything interesting here and mark it as read after dive into it. May
 
 <strong>Email:</strong> pc45025@gmail.com
 
-#Work Experience
+H2 Work Experience
 
 <strong>Time Period:</strong> 2010.01 - Present 
 
@@ -27,7 +27,7 @@ I will put anything interesting here and mark it as read after dive into it. May
 
 <strong>Latest Job Title:</strong> Senior Software Engineer
 
-#Education Background
+H2 Education Background
 
 <strong>Time Period:</strong> 2012.09 - 2015.07
 
